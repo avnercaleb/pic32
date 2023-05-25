@@ -1,0 +1,4 @@
+build/PIC32MX130F064B_RFM95W/production/AES/AES_ECB_PIC32.o:  \
+ AES/AES_ECB_PIC32.c  \
+AES/AES_ECB_PIC32.h  \
+AES/AESConfig.h 

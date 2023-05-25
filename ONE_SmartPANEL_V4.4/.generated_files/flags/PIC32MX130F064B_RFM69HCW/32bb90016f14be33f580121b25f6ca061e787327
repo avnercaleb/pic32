@@ -1,0 +1,1 @@
+ $(MP_EXTRA_CC_PRE)  -g -x c -c -mprocessor=$(MP_PROCESSOR_OPTION)  -ffunction-sections -fdata-sections -Os -D_DISABLE_OPENADC10_CONFIGPORT_WARNING -D_SUPPRESS_PLIB_WARNING -D_RFM69HCW_ -Wall   -DXPRJ_PIC32MX130F064B_RFM69HCW=$(CND_CONF)    $(COMPARISON_BUILD)    G:\Drives compartilhados\M1.TEC\PROJETOS\Solar_BR\Maracanau\firmware\ONE_SmartPANEL_V4.4\AES\AES_ECB_PIC32.c

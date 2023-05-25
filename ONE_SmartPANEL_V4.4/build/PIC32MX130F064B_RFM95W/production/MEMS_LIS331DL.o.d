@@ -1,0 +1,5 @@
+build/PIC32MX130F064B_RFM95W/production/MEMS_LIS331DL.o:  \
+MEMS_LIS331DL.c  \
+ MEMS_LIS331DL.h  \
+SPI.h  \
+system.h 

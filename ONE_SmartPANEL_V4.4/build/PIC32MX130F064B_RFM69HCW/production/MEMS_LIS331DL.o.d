@@ -1,0 +1,8 @@
+build/PIC32MX130F064B_RFM69HCW/production/MEMS_LIS331DL.o: \
+ MEMS_LIS331DL.c MEMS_LIS331DL.h SPI.h system.h
+
+MEMS_LIS331DL.h:
+
+SPI.h:
+
+system.h:
